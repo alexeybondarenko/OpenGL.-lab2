@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F7C4E94D1BAED633003684AA"
-               BuildableName = "OpenGL Lab1"
-               BlueprintName = "OpenGL Lab1"
-               ReferencedContainer = "container:OpenGL Lab1.xcodeproj">
+               BuildableName = "OpenGL Lab2"
+               BlueprintName = "OpenGL Lab2"
+               ReferencedContainer = "container:OpenGL Lab2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7C4E94D1BAED633003684AA"
-            BuildableName = "OpenGL Lab1"
-            BlueprintName = "OpenGL Lab1"
-            ReferencedContainer = "container:OpenGL Lab1.xcodeproj">
+            BuildableName = "OpenGL Lab2"
+            BlueprintName = "OpenGL Lab2"
+            ReferencedContainer = "container:OpenGL Lab2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7C4E94D1BAED633003684AA"
-            BuildableName = "OpenGL Lab1"
-            BlueprintName = "OpenGL Lab1"
-            ReferencedContainer = "container:OpenGL Lab1.xcodeproj">
+            BuildableName = "OpenGL Lab2"
+            BlueprintName = "OpenGL Lab2"
+            ReferencedContainer = "container:OpenGL Lab2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7C4E94D1BAED633003684AA"
-            BuildableName = "OpenGL Lab1"
-            BlueprintName = "OpenGL Lab1"
-            ReferencedContainer = "container:OpenGL Lab1.xcodeproj">
+            BuildableName = "OpenGL Lab2"
+            BlueprintName = "OpenGL Lab2"
+            ReferencedContainer = "container:OpenGL Lab2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

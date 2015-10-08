@@ -26,7 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		F7C4E94E1BAED634003684AA /* OpenGL Lab1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "OpenGL Lab1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7C4E94E1BAED634003684AA /* OpenGL Lab2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "OpenGL Lab2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7C4E9511BAED634003684AA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F7C4E9581BAED64B003684AA /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		F7C4E95A1BAED65A003684AA /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
@@ -55,7 +55,7 @@
 				F7C4E95C1BAED660003684AA /* OpenGL.framework */,
 				F7C4E95A1BAED65A003684AA /* GLUT.framework */,
 				F7C4E9581BAED64B003684AA /* Cocoa.framework */,
-				F7C4E9501BAED634003684AA /* OpenGL Lab1 */,
+				F7C4E9501BAED634003684AA /* OpenGL Lab2 */,
 				F7C4E94F1BAED634003684AA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,27 +63,28 @@
 		F7C4E94F1BAED634003684AA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F7C4E94E1BAED634003684AA /* OpenGL Lab1 */,
+				F7C4E94E1BAED634003684AA /* OpenGL Lab2 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F7C4E9501BAED634003684AA /* OpenGL Lab1 */ = {
+		F7C4E9501BAED634003684AA /* OpenGL Lab2 */ = {
 			isa = PBXGroup;
 			children = (
 				F7C4E9511BAED634003684AA /* main.cpp */,
 				F7C4E95E1BAED69D003684AA /* hw5.h */,
 				F7C4E95F1BAEEF43003684AA /* prefix.h */,
 			);
+			name = "OpenGL Lab2";
 			path = "OpenGL Lab1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F7C4E94D1BAED633003684AA /* OpenGL Lab1 */ = {
+		F7C4E94D1BAED633003684AA /* OpenGL Lab2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F7C4E9551BAED634003684AA /* Build configuration list for PBXNativeTarget "OpenGL Lab1" */;
+			buildConfigurationList = F7C4E9551BAED634003684AA /* Build configuration list for PBXNativeTarget "OpenGL Lab2" */;
 			buildPhases = (
 				F7C4E94A1BAED633003684AA /* Sources */,
 				F7C4E94B1BAED633003684AA /* Frameworks */,
@@ -93,9 +94,9 @@
 			);
 			dependencies = (
 			);
-			name = "OpenGL Lab1";
+			name = "OpenGL Lab2";
 			productName = "OpenGL Lab1";
-			productReference = F7C4E94E1BAED634003684AA /* OpenGL Lab1 */;
+			productReference = F7C4E94E1BAED634003684AA /* OpenGL Lab2 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -112,7 +113,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F7C4E9491BAED633003684AA /* Build configuration list for PBXProject "OpenGL Lab1" */;
+			buildConfigurationList = F7C4E9491BAED633003684AA /* Build configuration list for PBXProject "OpenGL Lab2" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -124,7 +125,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F7C4E94D1BAED633003684AA /* OpenGL Lab1 */,
+				F7C4E94D1BAED633003684AA /* OpenGL Lab2 */,
 			);
 		};
 /* End PBXProject section */
@@ -221,21 +222,21 @@
 		F7C4E9561BAED634003684AA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "OpenGL Lab2";
 			};
 			name = Debug;
 		};
 		F7C4E9571BAED634003684AA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "OpenGL Lab2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F7C4E9491BAED633003684AA /* Build configuration list for PBXProject "OpenGL Lab1" */ = {
+		F7C4E9491BAED633003684AA /* Build configuration list for PBXProject "OpenGL Lab2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7C4E9531BAED634003684AA /* Debug */,
@@ -244,13 +245,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F7C4E9551BAED634003684AA /* Build configuration list for PBXNativeTarget "OpenGL Lab1" */ = {
+		F7C4E9551BAED634003684AA /* Build configuration list for PBXNativeTarget "OpenGL Lab2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7C4E9561BAED634003684AA /* Debug */,
 				F7C4E9571BAED634003684AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
